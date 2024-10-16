@@ -1,21 +1,21 @@
 @font-face {
   font-family: "Poppins";
-  src: url(/assets/Poppins/Poppins-Regular.ttf);
+  src: url(/Poppins/Poppins-Regular.ttf);
 }
 
 @font-face {
   font-family: "Poppins-Medium";
-  src: url(/assets/Poppins/Poppins-Medium.ttf);
+  src: url(/Poppins/Poppins-Medium.ttf);
 }
 
 @font-face {
   font-family: "Poppins-SemiBold";
-  src: url(/assets/Poppins/Poppins-SemiBold.ttf);
+  src: url(/Poppins/Poppins-SemiBold.ttf);
 }
 
 @font-face {
   font-family: "Poppins-Bold";
-  src: url(/assets/Poppins/Poppins-Bold.ttf);
+  src: url(/Poppins/Poppins-Bold.ttf);
 }
 
 body {
